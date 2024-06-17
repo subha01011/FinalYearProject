@@ -1,0 +1,119 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  h3 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #result {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #333;
+    text-align: center; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+   
+  }
+  
+  #tweet {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+ */
+
+
+
+
+ /* Set the overall styling for the body */
+body {
+  font-family: Arial, sans-serif; /* Use Arial font */
+  margin: 0; /* Remove default margin */
+  padding: 20px; /* Add padding */
+  background-color: #f7f7f7; /* Set background color */
+  display: flex; /* Use flexbox for layout */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  flex-direction: column; /* Arrange content in a column */
+}
+
+/* Style for the heading */
+h3 {
+  margin-top: 0; /* Remove top margin */
+  color: #333; /* Set text color */
+}
+
+/* Style for the buttons */
+button {
+  padding: 8px 16px; /* Add padding */
+  background-color: #007bff; /* Set background color */
+  color: white; /* Set text color */
+  border: none; /* Remove border */
+  border-radius: 4px; /* Add border radius */
+  cursor: pointer; /* Set cursor to pointer */
+  transition: background-color 0.3s; /* Add transition effect */
+}
+
+/* Hover effect for buttons */
+button:hover {
+  background-color: #0056b3; /* Change background color on hover */
+}
+
+/* Style for the result box */
+#result {
+  margin-top: 10px; /* Add top margin */
+  padding: 10px; /* Add padding */
+  background-color: #f8f9fa; /* Set background color */
+  border: 1px solid #ced4da; /* Add border */
+  border-radius: 4px; /* Add border radius */
+  font-size: 16px; /* Set font size */
+  color: #333; /* Set text color */
+  text-align: center; /* Center text horizontally */
+  display: flex; /* Use flexbox for layout */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+}
+
+/* Style for the tweet box */
+#tweet {
+  margin-top: 10px; /* Add top margin */
+  padding: 10px; /* Add padding */
+  background-color: #f8f9fa; /* Set background color */
+  border: 1px solid #ced4da; /* Add border */
+  border-radius: 4px; /* Add border radius */
+  font-size: 16px; /* Set font size */
+  color: #333; /* Set text color */
+}
